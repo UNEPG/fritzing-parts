@@ -1,2 +1,3 @@
 # fritzing-parts
-Материалы курса UNEPG Fritzing Parts for PCB Design
+Материалы курса UNEPG Детали Fritzing для проектирования печатных плат
+
